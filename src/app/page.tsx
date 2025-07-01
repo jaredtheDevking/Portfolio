@@ -164,9 +164,10 @@ export default function Home() {
                           <div className="row">
                             <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6">
                               <img
-                                src="/img/welcome-1.jpg"
+                                src="/img/porfilepic.png"
                                 className="img-fluid mb-3"
                                 alt="welcome 1"
+                                style={{ width: "400px", height: "400px" }}
                               />
                             </div>
                             <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6">
@@ -603,6 +604,75 @@ export default function Home() {
                                             <div className="portfolio-links">
                                               <a
                                                 href="https://freetalkzone.com/"
+                                                className="portfolio-link"
+                                              >
+                                                <i className="fas fa-external-link-alt"></i>
+                                              </a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="portfolio-item">
+                                      <div className="portfolio-image">
+                                        <img
+                                          src="/img/gallery-img-05-tn.png"
+                                          alt="Project 4"
+                                          className="portfolio-img"
+                                        />
+                                        <div className="portfolio-overlay">
+                                          <div className="portfolio-info">
+                                            <h4>Sport-Technology-Website</h4>
+                                            <div className="portfolio-links">
+                                              <a
+                                                href="https://www.pythiasports.com/ "
+                                                className="portfolio-link"
+                                              >
+                                                <i className="fas fa-external-link-alt"></i>
+                                              </a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="portfolio-item">
+                                      <div className="portfolio-image">
+                                        <img
+                                          src="/img/gallery-img-06-tn.png"
+                                          alt="Project 4"
+                                          className="portfolio-img"
+                                        />
+                                        <div className="portfolio-overlay">
+                                          <div className="portfolio-info">
+                                            <h4> Plumbing Project Website</h4>
+                                            <div className="portfolio-links">
+                                              <a
+                                                href="https://happyhiller.com/"
+                                                className="portfolio-link"
+                                              >
+                                                <i className="fas fa-external-link-alt"></i>
+                                              </a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="portfolio-item">
+                                      <div className="portfolio-image">
+                                        <img
+                                          src="/img/gallery-img-07-tn.png"
+                                          alt="Project 4"
+                                          className="portfolio-img"
+                                        />
+                                        <div className="portfolio-overlay">
+                                          <div className="portfolio-info">
+                                            <h4>
+                                              Beauty & Cosmetic Website Rebuilt
+                                              Project{" "}
+                                            </h4>
+                                            <div className="portfolio-links">
+                                              <a
+                                                href="https://luxurylashesuk.com/"
                                                 className="portfolio-link"
                                               >
                                                 <i className="fas fa-external-link-alt"></i>
