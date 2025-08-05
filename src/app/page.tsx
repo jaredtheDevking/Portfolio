@@ -157,18 +157,18 @@ export default function Home() {
                             <div className="row tm-reverse-sm">
                               <div className="col-sm-12 col-md-8 col-lg-8 col-xl-8">
                                 <div className="experience-timeline">
-                                  {/* Job 1 - SAP */}
+                                  {/* Job 1 - Spotify */}
                                   <div className="job-card">
                                     <div className="job-header">
                                       <div className="job-title">
                                         <h3>Software Engineer</h3>
-                                        <span className="company">SAP</span>
+                                        <span className="company">Spotify</span>
                                       </div>
                                       <div className="job-period">
                                         <span className="period">
                                           08/2024 – 06/2025
                                         </span>
-                                        <span className="type">Germany</span>
+                                        <span className="type">Sweden</span>
                                       </div>
                                     </div>
                                     <div className="job-content">
@@ -245,19 +245,19 @@ export default function Home() {
                                     </div>
                                   </div>
 
-                                  {/* Job 2 - Revolut */}
+                                  {/* Job 2 - Elastic */}
                                   <div className="job-card">
                                     <div className="job-header">
                                       <div className="job-title">
                                         <h3>Software Engineer</h3>
-                                        <span className="company">Revolut</span>
+                                        <span className="company">Elastic</span>
                                       </div>
                                       <div className="job-period">
                                         <span className="period">
                                           06/2022 – 07/2024
                                         </span>
                                         <span className="type">
-                                          UK/Lithuania
+                                          Netherlands
                                         </span>
                                       </div>
                                     </div>
@@ -328,7 +328,7 @@ export default function Home() {
                                     </div>
                                   </div>
 
-                                  {/* Job 3 - Booking.com */}
+                                  {/* Job 3 - Uipath */}
                                   <div className="job-card">
                                     <div className="job-header">
                                       <div className="job-title">
@@ -336,7 +336,7 @@ export default function Home() {
                                           Software Development Engineer Intern
                                         </h3>
                                         <span className="company">
-                                          Booking.com
+                                          Uipath
                                         </span>
                                       </div>
                                       <div className="job-period">
@@ -344,7 +344,7 @@ export default function Home() {
                                           06/2021 – 05/2022
                                         </span>
                                         <span className="type">
-                                          Netherlands
+                                          Romania
                                         </span>
                                       </div>
                                     </div>
